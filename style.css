@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+.body_backgorund {
+  background-color: #ffea00;
+}
+body {
+  cursor: pointer;
+  font-family: Montserrat, sans-serif;
+}
+h1 {
+  color: #fafafa;
+  font-size: 40px;
+}
+#myCanvas {
+  border-width: 10px;
+  background-color: white;
+  border-style: ridge;
+}
+
+button {
+  font-family: Montserrat, sans-serif;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 42px;
+  font-size: 16px;
+  border-radius: 10px;
+}
